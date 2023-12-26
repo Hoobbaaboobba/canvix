@@ -13,10 +13,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        "main-orange": "#FFAD33",
-        "dark-gray": "#343434",
-        "light-orange": "#FFFAE5",
-        "middle-gray": "#BDBDBD",
+        "light-green": "#64CCC5",
+        "light-black": "#0C0C0C",
+        "light-gray": "#F4F4F4",
+        "dark-gray": "DFDFDF",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
